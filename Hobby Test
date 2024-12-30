@@ -23,3 +23,17 @@ what is direct addressing? SOL:Direct addressing is a type of addressing mode us
 explain indirect addressing? SOL:Indirect addressing is a method used in computer architecture and assembly programming where the address of the operand (data) is not specified directly in the instruction. Instead, the instruction provides a reference to another memory location (or register), which in turn contains the actual address of the operand.
 What is indexed addressing? SOL:Indexed addressing is an addressing mode used in computer architecture where the final address of the operand (data) is computed by adding an offset (often called an index) to a base address. The base address is typically stored in a register, and the index is either a constant value or another register.
 What are the benefits of hobby kernel development? sol:-Deep Understanding of Computer Architecture -Mastering Operating System Concepts -Improved Problem-Solving and Debugging Skills -Practical Experience with Systems Programming -Personal Satisfaction and Creativity -Career Advantages and Marketability -Better Understanding of Security -Contributions to the Open Source Community -Exploration of New Technologies -Improved Software Design Skills
+How does register addressing work? SOL:
+Why is virtualization important in os development? SOL:
+Describe the difference between emulation and virtualization? SOL:
+What is the purpose of debugging tools in kernel developmet? SOL:
+How does a cache improve system performance? SOL:
+What is a virtual environment in the context of software developmet? SOL:
+How does memory adressing impact program performance? SOL:
+Why is register addressing faster than other modes? SOL:
+What is a target architecture in kernel developmet? SOL:
+Why are virtualization tools required for kernel developmet? SOL:
+Name some common virtualization tools for kernel developmet? SOL:
+What development tool are essential for hobby kernel development? SOL:
+How do you identify the right tools for kernel development? SOL:
+What is QEMU? SOL:
